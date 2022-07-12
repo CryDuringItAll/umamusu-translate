@@ -9,7 +9,7 @@
             "jpName": "観客A",
             "enName": "Spectator A",
             "jpText": "――今日デビューするエアシャカールって子、\nなかなかヤバイらしいよ。\nかなり尖ってて、不良っぽい子らしい。",
-            "enText": "―I heard that Air Shakur, who is making her \ndebut today, is a pretty bad boy. I hear \nshe's pretty sharp and delinquent.",
+            "enText": "―I heard that Air Shakur, who is making \nher debut today, is a pretty bad boy. I hear \nshe's pretty sharp and delinquent.",
             "nextBlock": 2,
             "origClipLength": 114,
             "pathId": -776416203233183772,
@@ -19,7 +19,7 @@
             "jpName": "観客B",
             "enName": "Spectator B",
             "jpText": "へー、トレセン学園にそんな子いるんだ。\n確かに面白そうだわ。ちゃんと見てこーぜ。",
-            "enText": "Wow, there's a girl like that at Tressen \nAcademy. That certainly sounds interesting. \nI'll have to check it out.",
+            "enText": "Wow, there's a girl like that at Tracen \nAcademy. That certainly sounds interesting. \nI'll have to check it out.",
             "nextBlock": 3,
             "origClipLength": 97,
             "coloredText": [
@@ -35,7 +35,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "……。",
-            "enText": "……",
+            "enText": "…",
             "nextBlock": 4,
             "origClipLength": 48,
             "animData": [
@@ -59,7 +59,7 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "パソコンで最終確認を終えた後、\nエアシャカールはふいに目を閉じた。",
-            "enText": "After completing a final check on her \ncomputer, Air Shakur suddenly closed her eyes.",
+            "enText": "After completing a final check on her \ncomputer, Air Shakur suddenly closed her \neyes.",
             "nextBlock": 5,
             "origClipLength": 88,
             "animData": [
@@ -135,7 +135,7 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "彼女の言うシャットアウトをして、\n集中力を高めているのだろうか。\n声はかけないほうがいいだろう。",
-            "enText": "I wonder if she's doing what she calls \nshutting them out to help them focus. It \nwould be best not to talk to her.",
+            "enText": "I wonder if she's doing what she calls \nshutting them out to help her focus. It \nwould be best not to talk to her.",
             "nextBlock": 8,
             "origClipLength": 107,
             "animData": [
@@ -167,7 +167,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "……ン。",
-            "enText": "……n.",
+            "enText": "…Nn.",
             "nextBlock": 9,
             "origClipLength": 50,
             "animData": [
@@ -191,7 +191,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "……。",
-            "enText": "……",
+            "enText": "…",
             "nextBlock": 10,
             "origClipLength": 68,
             "choices": [
@@ -307,5 +307,5 @@
             "blockIdx": 13
         }
     ],
-    "modified": 1657513099
+    "modified": 1657649748
 }
