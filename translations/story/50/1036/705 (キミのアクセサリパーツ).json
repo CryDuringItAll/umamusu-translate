@@ -9,7 +9,7 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "お出かけの帰り道、\nはしゃぐ通行人たちとすれちがった。",
-            "enText": "On my way home from an outing, I passed a \ngroup of excited passersby.",
+            "enText": "On my way home from an outing, I passed \na group of excited passersby.",
             "nextBlock": 2,
             "origClipLength": 80,
             "animData": [
@@ -29,7 +29,7 @@
             "jpName": "ウマ娘A",
             "enName": "Horsegirl A",
             "jpText": "Dee出店ってマジ！？\n普段ネット通販しかしてないじゃん！！",
-            "enText": "Dee store openings are for real! You usually \nonly do online shopping!",
+            "enText": "Dee's Store is for real! You usually \nonly do online shopping!",
             "nextBlock": 3,
             "origClipLength": 84,
             "animData": [
@@ -157,7 +157,7 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "ああ、Deeだね！\n私もちょうど向かうところだよ！",
-            "enText": "Oh, you must be Dee! I'm just on my way too!",
+            "enText": "Oh, you must be looking for Dee! \nI'm just on my way too!",
             "nextBlock": 8,
             "origClipLength": 77,
             "choices": [
@@ -248,7 +248,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "やべェ、マジで出店してやがる……！\nちょうどサイト漁ってたとこなンだよ！",
-            "enText": "Oh shit, they're really opening a store ……! I \nwas just browsing the site!",
+            "enText": "Oh shit, they're really opening a store ……! \nI was just browsing the site!",
             "nextBlock": 11,
             "origClipLength": 91,
             "choices": [
@@ -603,7 +603,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "……っと、今回のみの限定品まで\n売ってるじゃねェか！\nしかもこのデザイン！",
-            "enText": "…… and they're even selling a limited edition \nitem just for this occasion! And this design!",
+            "enText": "…… and they're even selling a limited \nedition item just for this occasion! And \nthis design!",
             "nextBlock": 23,
             "origClipLength": 93,
             "animData": [
@@ -631,7 +631,7 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "もしかして、以前販売したネックレスと\n対のデザインじゃないかな？",
-            "enText": "Perhaps it's a counterpart to \na necklace we sold before?",
+            "enText": "Perhaps it's a counterpart to \na necklace they sold before?",
             "nextBlock": 24,
             "origClipLength": 86,
             "animData": [
@@ -846,7 +846,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "勢いで買いすぎたか？\n出費はでけェ……が。",
-            "enText": "Did I buy too much in the heat of the moment? \nThe expense was huge. ……",
+            "enText": "Did I buy too much in the heat of the moment? \nThe price was huge. ……",
             "nextBlock": 31,
             "origClipLength": 72,
             "choices": [
@@ -885,7 +885,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "……はッ、まァな。\nだが必要経費だ。後悔はしてねェよ。",
-            "enText": "…… is, well, you know. But it is a necessary \nexpense. I don't regret it.",
+            "enText": "…… It's fine, you know. But it is a necessary \nexpense. I don't regret it.",
             "nextBlock": 32,
             "origClipLength": 86,
             "animData": [
@@ -1091,7 +1091,7 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "楽しそうなエアシャカールと買い物をし、\nかなり貴重な体験をしたのであった……！",
-            "enText": "I shopped with the delightful Air Shakur and \nhad a pretty priceless experience. ……!",
+            "enText": "I shopped with the delightful Air Shakur \nand had a pretty priceless experience. ……!",
             "nextBlock": -1,
             "origClipLength": 95,
             "animData": [
@@ -1208,5 +1208,5 @@
             "blockIdx": 40
         }
     ],
-    "modified": 1657513111
+    "modified": 1657640485
 }
