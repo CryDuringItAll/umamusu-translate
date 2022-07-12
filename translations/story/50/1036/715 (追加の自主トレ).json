@@ -9,7 +9,7 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "エアシャカールの今日のトレーニング\nメニューが全て終わったところで――",
-            "enText": "Air Shakur's entire training menu for the day \nis now complete―and we're ready to go.",
+            "enText": "Air Shakur's entire training schedule \nfor the day is now complete―and we're \nready to go.",
             "nextBlock": 2,
             "origClipLength": 90,
             "animData": [
@@ -93,7 +93,7 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "どうやら納得いかない部分があるらしく、\n追加でトレーニングをするつもりらしい。",
-            "enText": "Apparently, they are not satisfied with some \naspects of the program and intend to do \nadditional training.",
+            "enText": "Apparently, she are not satisfied with some \naspects of the program and intend to do \nadditional training.",
             "nextBlock": 5,
             "origClipLength": 95,
             "choices": [
@@ -104,7 +104,7 @@
                 },
                 {
                     "jpText": "これ以上はオーバーワークになる",
-                    "enText": "Any more would be overwork.",
+                    "enText": "Any more would overwork you.",
                     "nextBlock": 15
                 }
             ],
@@ -161,7 +161,7 @@
             "jpName": "ファインモーション",
             "enName": "Fine Motion",
             "jpText": "シャカールとトレーナー、こんばんは。\nまだトレーニング中？",
-            "enText": "Good evening, Shakur and trainer. Are you \nstill in training?",
+            "enText": "Good evening, Shakur and trainer. Are you \nstill training?",
             "nextBlock": 7,
             "origClipLength": 82,
             "animData": [
@@ -341,7 +341,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "大した自信だな。\n……ハッタリだったら即やめるぞ。",
-            "enText": "That's a lot of confidence. If…… is bluffing, \nI'll quit immediately.",
+            "enText": "That's a lot of confidence... If she's \nbluffing, I'll quit immediately.",
             "nextBlock": 12,
             "origClipLength": 77,
             "animData": [
@@ -377,7 +377,7 @@
             "jpName": "ファインモーション",
             "enName": "Fine Motion",
             "jpText": "本当だったら、\nこれからも併走に付き合ってくれる？",
-            "enText": "If that's true, will you keep running with me?",
+            "enText": "If that's true, will you keep running with \nme?",
             "nextBlock": 13,
             "origClipLength": 77,
             "animData": [
@@ -413,7 +413,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "なンでお前が取引してくンだよ。\nいいから始めるぞ。",
-            "enText": "Why are you doing business with \nme? Just get on with it.",
+            "enText": "You're the one who made the deal. Just \nget on with it.",
             "nextBlock": 14,
             "origClipLength": 77,
             "animData": [
@@ -804,5 +804,5 @@
             "blockIdx": 25
         }
     ],
-    "modified": 1657513099
+    "modified": 1657649046
 }
