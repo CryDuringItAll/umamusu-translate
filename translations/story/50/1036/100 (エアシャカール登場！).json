@@ -59,7 +59,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "っ……！",
-            "enText": "っ……!",
+            "enText": "Ah……!",
             "nextBlock": 7,
             "origClipLength": 50,
             "pathId": 6936196471108285101,
@@ -227,7 +227,7 @@
             "jpName": "ウマ娘B",
             "enName": "Horsegirl B",
             "jpText": "え！？　“あの”シャカール先輩の！？",
-            "enText": "What? That \"that\" Shakur senior?",
+            "enText": "What? \"That\" Shakur senior?",
             "nextBlock": 15,
             "origClipLength": 68,
             "pathId": 5128550530794161735,
@@ -277,7 +277,7 @@
             "jpName": "ウマ娘B",
             "enName": "Horsegirl B",
             "jpText": "その先輩のトレーナーになるって……\nあの人、相当肝が据わってるか\nすっごい優秀なんだろうね。",
-            "enText": "She's going to be the trainer for that \nsenior.…… That guy must have a lot of Tama or \nbe very, very good at what she does.",
+            "enText": "She's going to be the trainer for that \nsenior.…… That guy must have a lot of balls or \nbe very, very good at what she does.",
             "nextBlock": 18,
             "origClipLength": 105,
             "animData": [
@@ -411,7 +411,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "東京レース場、芝左回り2000m、\n天候は曇り、良バ場……。",
-            "enText": "Tokyo Racecourse, 2000m on the left side of \nthe turf, weather is cloudy, good ba… ……",
+            "enText": "Tokyo Racecourse, 2000m on the left side of \nthe turf, weather is cloudy, good turf… ……",
             "nextBlock": 25,
             "origClipLength": 84,
             "animData": [
@@ -557,7 +557,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "フ～……。",
-            "enText": "F～……",
+            "enText": "Fu～……",
             "nextBlock": 34,
             "origClipLength": 51,
             "choices": [
@@ -919,7 +919,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "全てに勝利した者は三冠ウマ娘と呼ばれ、\nその絶対的な強さを疑う者はいない。",
-            "enText": "The one who wins them all is called the \nTriple Crown horsegirl, and no one doubts her \nabsolute strength.",
+            "enText": "The one who wins them all is called the \nTriple Crown horsegirl, and no one doubts \nher absolute strength.",
             "nextBlock": 47,
             "origClipLength": 93,
             "animData": [
@@ -1003,7 +1003,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "『Parcae』は、オレが“7cm”差で\n『日本ダービー』に負けることを示した。",
-            "enText": "Parcae\" showed that I lost \nto \"Japan Derby\" by 7 cm.",
+            "enText": "\"Parcae\" showed that I lost \nto \"Japan Derby\" by 7 cm.",
             "nextBlock": 50,
             "origClipLength": 97,
             "animData": [
@@ -1142,7 +1142,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "これ以上の結果は、『Parcae』の中……\nつまりオレの未来には存在しない。だが――",
-            "enText": "No more results exist in \"Parcae\"…… i.e. in \nmy future. But―",
+            "enText": "No more results exist in \"Parcae\"…… \nlike in my future. But―",
             "nextBlock": 56,
             "origClipLength": 99,
             "choices": [
@@ -1169,7 +1169,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "……既にさらいまくって、\n砂1粒さえ残ってねェところでな。",
-            "enText": "…… has already been soaked up where not even \na grain of sand is left.",
+            "enText": "…… has already been soaked up where \nnot even a grain of sand is left.",
             "nextBlock": 57,
             "origClipLength": 82,
             "choices": [
@@ -1216,7 +1216,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "比喩だろうが。プログラム上で\nンな間抜けな取りこぼしすっかよ。",
-            "enText": "It's a metaphor. You can't \njust programmatically make \na dumb mistake like that.",
+            "enText": "It's a metaphor. You can't \njust program a dumb \nmistake like that.",
             "nextBlock": 59,
             "origClipLength": 85,
             "animData": [
@@ -1436,7 +1436,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "……お前の能力には、\nなにも期待してねェって言ってンだぜ。",
-            "enText": "…… I said I don't expect anything from you.",
+            "enText": "…… I said I don't expect anything from \nyou.",
             "nextBlock": 68,
             "origClipLength": 82,
             "choices": [
@@ -1467,7 +1467,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "無駄だと思うが……勝手にしろ。\nオレの不利益にならない範囲で。",
-            "enText": "I know it's useless, but…… do what you want. \nAs long as it's not to my detriment.",
+            "enText": "I know it's useless, but…… do what you \nwant. As long as it's not to my detriment.",
             "nextBlock": 69,
             "origClipLength": 85,
             "animData": [
@@ -1554,7 +1554,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "今、知る必要あンのか？\nお前は目先のことだけ見てろ。",
-            "enText": "Why do you need to know now? You only care \nabout what's in front of you.",
+            "enText": "Why do you need to know now? You only \ncare about what's in front of you.",
             "nextBlock": 73,
             "origClipLength": 78,
             "choices": [
@@ -1618,7 +1618,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "伝達不足で面倒が起きンのはダルい。\nだから必要だと判断したことは共有する。",
-            "enText": "It's dull when trouble occurs due to lack of \ncommunication. That's why we share what we \njudge to be necessary.",
+            "enText": "It's dull when trouble occurs due to lack of \ncommunication. That's why we share what \nwe judge to be necessary.",
             "nextBlock": 76,
             "origClipLength": 93,
             "animData": [
@@ -1665,7 +1665,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "……出た。うっさンくせェ。",
-            "enText": "I got out of…… That's a lot of crap.",
+            "enText": "Get out…… That's a load of crap.",
             "nextBlock": 78,
             "origClipLength": 61,
             "animData": [
@@ -1815,7 +1815,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "シニア級の“最高のルート”はな。\n――勝てねェことだ。",
-            "enText": "The best route to the senior class is… not to \nwin. ―You can't win.",
+            "enText": "The best route to the senior class is… \nnot to win. ―You can't win.",
             "nextBlock": 84,
             "origClipLength": 80,
             "coloredText": [
@@ -1888,7 +1888,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "それが“7cm差を覆すこと”だと、\nオレは見ている。",
-            "enText": "I see that as \"overturning the 7cm gap.",
+            "enText": "I see that as overturning the 7cm gap.",
             "nextBlock": 87,
             "origClipLength": 78,
             "choices": [
@@ -1943,7 +1943,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "……で、お前はどうする？\n奇跡でも願ってくれンのか？",
-            "enText": "What about you at ……? Wish me a miracle?",
+            "enText": "What about you ……? Wish me a miracle?",
             "nextBlock": 89,
             "origClipLength": 78,
             "choices": [
@@ -2057,7 +2057,7 @@
             "jpName": "エアシャカール",
             "enName": "Air Shakur",
             "jpText": "ア？",
-            "enText": "A?",
+            "enText": "Ah?",
             "nextBlock": 93,
             "origClipLength": 47,
             "choices": [
@@ -2121,5 +2121,5 @@
             "blockIdx": 94
         }
     ],
-    "modified": 1657513099
+    "modified": 1657639794
 }
